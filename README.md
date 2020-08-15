@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a professional and young Machine Learning Engineer who is deliveres creative and engaging solutions in the field of Robotics and Defence focused on Computer Vision and Image Processing applicatios.
+I'm a young Machine Learning Engineer who is deliveres creative and engaging solutions in the field of Robotics and Defence focused on Computer Vision and Image Processing applicatios.
 
 - 🔭 I’m currently working on Machine Learning & Big Data
 - 🌱 I’m currently learning Apache Hadoop, Apache Spark, Java and Scala
