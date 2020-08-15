@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-I'm a young professional who's considered himself as a Machine Learning Engineer focused on Computer Vision and Image Processing application that delivered creative and engaging solutions in the field of Robotics and AI.
+I'm a professional and young Machine Learning Engineer who is deliveres creative and engaging solutions in the field of Robotics and Defence focused on Computer Vision and Image Processing applicatios.
 
-- 🔭 I’m currently working on Machine Learning, Big Data
-- 🌱 I’m currently learning Tensorflow & Keras
+- 🔭 I’m currently working on Machine Learning & Big Data
+- 🌱 I’m currently learning Apache Hadoop, Apache Spark, Java and Scala
 - 👯 I’m looking to collaborate on data science projects
-- ⚡ Fun fact: I am based in 🇹🇷 and I lived in 🇩🇰 and 🇫🇮 before.
+- ⚡ Fun fact: I am based in 🇹🇷 and I lived in 🇫🇮 and 🇩🇰 before.
 
 ### Technologies 🧠
 
