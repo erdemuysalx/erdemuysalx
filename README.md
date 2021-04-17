@@ -30,9 +30,9 @@ I'm a young Machine Learning Engineer who is deliveres creative and engaging sol
 
 ## Blog :pencil:
 
-<code><a href="https://medium.com/@erdemuysal13" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/medium/medium-ar21.svg"></a></code><br><br>
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@erdemuysal13/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@erdemuysal13/0" alt="Recent Article 0"> 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@erdemuysal13/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@erdemuysal13/0" alt="Recent Article 1"> 
+<code><a href="https://medium.com/@erdemuysal13" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/medium/medium-ar21.svg"></a></code>
 <code><a href="https://www.kaggle.com/erdemuysal" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg"></a></code>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@erdemuysal13/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@erdemuysal13/0" alt="Recent Article 0"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@erdemuysal13/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@erdemuysal13/0" alt="Recent Article 1"> 
 
 ![Erdem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=erd3muysal&show_icons=true)
