@@ -25,7 +25,7 @@ I'm a young Machine Learning Engineer who is deliveres creative and engaging sol
 <code><a href="https://www.jupyter.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></a></code>
 
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0" alt="Recent Article 0"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@erdemuysal13/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@erdemuysal13/0" alt="Recent Article 0"> 
 
 
 
