@@ -1,37 +1,40 @@
 ### Hi there 👋
 
-I'm a young Machine Learning Engineer who is deliveres creative and engaging solutions in the field of Robotics and Defence focused on Computer Vision and Image Processing applicatios.
+I'm a young Machine Learning Engineer who deliveres creative and engaging solutions in the field of Robotics and Computer Vision applicatios.
 
-- 🔭 I’m currently working on Machine Learning & Big Data
-- 🌱 I’m currently learning Apache Hadoop, Apache Spark, Java and Scala
-- 👯 I’m looking to collaborate on data science projects
+- 🔭 I’m currently working on reinforcement learning, operating systems and computer organization.
+- 🌱 I’m currently learning Tensorflow.
+- 👯 I’m looking for a company to collaborate on my master thesis project.
 - ⚡ Fun fact: I am based in 🇹🇷 and I lived in 🇫🇮 and 🇩🇰 before.
 
-### Technologies 🧠
+### My Tech Stack 🧠
 
-<code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
-<code><a href="https://www.isocpp.org/" target="_blank"><img height="45" src="https://isocpp.org/assets/images/cpp_logo.png"></a></code>
-<code><a href="" target="_blank"><img height="50" src="https://img.icons8.com/color/48/000000/c-programming.png"></a></code>
-<code><a href="https://www.pytorch.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></a></code>
-<code><a href="https://www.tensorflow.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></a></code>
-<code><a href="https://www.keras.io/" target="_blank"><img height="45" src="https://keras.io/img/logo.png"></a></code>
-<code><a href="https://www.opencv.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"></a></code>
-<code><a href="https://www.numpy.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></a></code>
-<code><a href="https://www.ros.org/" target="_blank"><img height="45" src="https://www.ros.org/wp-content/uploads/2013/10/rosorg-logo1.png"></a></code>
-<code><a href="http://www.gazebosim.org/" target="_blank"><img height="45" src="http://gazebosim.org/assets/masthead-0bd44817978df8069f427d8ca1657998789065a2b242edfd1a3d8ab4a329dd4c.png"></a></code>
-<code><a href="https://www.mathworks.com/" target="_blank"><img height="45" src="https://www.mathworks.com/etc/designs/mathworks/img/pic-header-mathworks-logo.svg"></a></code>
-<code><a href="https://www.jupyter.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
-<code><a href="https://github.com//" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></a></code>
-<code><a href="https://www.jupyter.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></a></code>
+<div>
+  <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>  
+  <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>  
+  <img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/>
+  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" />
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white" />
+  <img alt="Scikit-Learn" src="https://img.shields.io/badge/Scikit%20learn-%2312100E.svg?&style=flat&logo=scikit-learn&logoColor=white"/>
+  <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />
+  <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
+  <img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/>
+  <img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?&style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+  <img alt="Sublime Text" src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"/>
+</div>
 
-## Contact Me 📫
 
-[![Linkedin Badge](https://img.shields.io/badge/erdemuysal13-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/erdemuysal13/)
+## Follow Me 📫
+
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erdemuysal13/)
+[![](https://img.shields.io/badge/Medium-%2312100E.svg?&style=flat&logo=medium&logoColor=white)](https://medium.com/@erdemuysal13)
+[![](https://img.shields.io/badge/Kaggle-%2312100E.svg?&style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/erdemuysal)
 
 ## Blog :pencil:
 
-<code><a href="https://medium.com/@erdemuysal13" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/medium/medium-ar21.svg"></a></code>
-<code><a href="https://www.kaggle.com/erdemuysal" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg"></a></code>
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@erdemuysal13/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@erdemuysal13/0" alt="Recent Article 0"> 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@erdemuysal13/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@erdemuysal13/1" alt="Recent Article 1"> 
 
