@@ -4,7 +4,6 @@ I'm a young Machine Learning Engineer who deliveres creative and engaging soluti
 
 - 🔭 I’m currently working on reinforcement learning, operating systems and computer organization.
 - 🌱 I’m currently learning Tensorflow.
-- 👯 I’m looking for a company to collaborate on my master thesis project.
 - ⚡ Fun fact: I am based in 🇹🇷 and I lived in 🇫🇮 and 🇩🇰 before.
 
 ### My Tech Stack 🧠
