@@ -28,12 +28,12 @@ I'm a young Machine Learning Engineer who deliveres creative and engaging soluti
 ## Follow Me 📫
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erdemuysal13/)
-[![](https://img.shields.io/badge/Medium-%2312100E.svg?&style=flat&logo=medium&logoColor=white)](https://medium.com/@erdemuysal13)
+[![](https://img.shields.io/badge/Medium-%2312100E.svg?&style=flat&logo=medium&logoColor=white)](https://medium.com/@erdemuysalx)
 [![](https://img.shields.io/badge/Kaggle-%2312100E.svg?&style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/erdemuysal)
 
 ## Blog :pencil:
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@erdemuysal13/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@erdemuysal13/0" alt="Recent Article 0"> 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@erdemuysal13/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@erdemuysal13/1" alt="Recent Article 1"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@erdemuysalx/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@erdemuysalx/0" alt="Recent Article 0"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@erdemuysalx/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@erdemuysalx/1" alt="Recent Article 1"> 
 
 ![Erdem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=erd3muysal&show_icons=true)
