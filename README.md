@@ -36,4 +36,4 @@ I'm a young Machine Learning Engineer who deliveres creative and engaging soluti
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@erdemuysalx/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@erdemuysalx/0" alt="Recent Article 0"> 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@erdemuysalx/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@erdemuysalx/1" alt="Recent Article 1"> 
 
-![Erdem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=erd3muysal&show_icons=true)
+![Erdem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=erdemuysalx&show_icons=true)
