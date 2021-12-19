@@ -1,17 +1,17 @@
 ### Hi there 👋
 
-I'm a young Machine Learning Engineer who deliveres creative and engaging solutions in the field of Robotics and Computer Vision applicatios.
+I'm a young Robotics/AI Software Engineer who deliveres creative and engaging solutions in the field of aerial robotics, control and computer vision applicatios.
 
-- 🔭 I’m currently working on reinforcement learning, operating systems and computer organization.
-- 🌱 I’m currently learning Tensorflow.
-- ⚡ Fun fact: I am based in 🇹🇷 and I lived in 🇫🇮 and 🇩🇰 before.
+- 🔭 I’m currently working on aerial robotics and embedded systems.
+- 🌱 I’m currently learning reinforcement learning.
+- ⚡ Fun fact: I am 🇹🇷 originated, based in 🇩🇪, and lived in 🇫🇮🇩🇰 before.
 
 ### My Tech Stack 🧠
 
 <div>
   <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>  
   <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-  <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>  
+  <!-- <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>  -->
   <img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/>
   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" />
   <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white" />
